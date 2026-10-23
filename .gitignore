@@ -25,3 +25,4 @@ spamscanner-linux-*
 spamscanner-darwin-*
 spamscanner-win-*
 spamscanner-model.json
+.vercel
